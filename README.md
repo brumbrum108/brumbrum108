@@ -1,7 +1,7 @@
 - 👋 Hi, I’m CHAU PHAM (@brumbrum108)
 - 👀 I’m interested in playing badminton
 - 🌱 I’m currently learning computer science
-- 📫 How to reach me: IG @say_mew0
+
 - ⚡ Fun fact: This is a bare-bones `README.md`. I'll spruce it up later
 
 <!---
