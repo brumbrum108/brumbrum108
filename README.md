@@ -1,6 +1,6 @@
-- 👋 Hi, I’m CHAU PHAM (@brumbrum108)
-- 👀 I’m interested in playing badminton
-- 🌱 I’m currently learning computer science
+- 👋 From Purdue
+- 👀 Wanna play badminton
+- 🌱 Computer science
 
 - ⚡ Fun fact: This is a bare-bones `README.md`. I'll spruce it up later
 
